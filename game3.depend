@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1580486818 source:c:\users\awesomekid\desktop\codeblocks\game3\main.cpp
+	"Header.h"
+
+1580486848 c:\users\awesomekid\desktop\codeblocks\game3\header.h
+	"graphics.h"
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1412446578 c:\users\awesomekid\desktop\codeblocks\game3\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1580487798 source:c:\users\awesomekid\desktop\codeblocks\game3\gameplay.cpp
+	"Header.h"
+
+1580486832 source:c:\users\awesomekid\desktop\codeblocks\game3\io.cpp
+	"Header.h"
+
+1580302354 source:c:\users\awesomekid\desktop\codeblocks\game3\linkedlist.cpp
+	"Header.h"
+
+1580277630 source:c:\users\awesomekid\desktop\codeblocks\game3\tools.cpp
+	"Header.h"
+
