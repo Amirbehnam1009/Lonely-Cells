@@ -1,4 +1,5 @@
 # 🎮 Lonely Cells: A Hexagonal Strategy Game  
+<img src="https://github.com/user-attachments/assets/d7c6734e-5425-442a-a07e-6c9549b604f0" alt="Hexagonal game board preview" width="500" height="500" style="display: block; margin: 0 auto;">
 
 ## 📖 About  
 **Final Project for Fundamental Programming**  
